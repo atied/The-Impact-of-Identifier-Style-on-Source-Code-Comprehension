@@ -1,0 +1,3 @@
+For using the file:
+1. Create an account in LimeSurvey
+2. Upload the limesurvey_survey_175167.lss
