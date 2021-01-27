@@ -1,0 +1,1759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+ <LimeSurveyDocType>Survey</LimeSurveyDocType>
+ <DBVersion>261</DBVersion>
+ <languages>
+  <language>en</language>
+ </languages>
+ <answers>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>code</fieldname>
+   <fieldname>answer</fieldname>
+   <fieldname>assessment_value</fieldname>
+   <fieldname>sortorder</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[10632]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[averageSpeed]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[1]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10632]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[speedAccelaration]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[2]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10632]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[takenTime]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[3]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10634]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[travelledDistance]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[1]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10634]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[takenTime]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[3]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10634]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[remainingDistance]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[2]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10636]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[minNumber]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[1]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10636]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[maxNumber]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[2]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10636]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[thirdNumber]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[3]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10636]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[firstNumber]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[4]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10638]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[maxNumbers]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[1]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10638]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[minNumber]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[4]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10638]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[meanNum]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[3]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10638]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[averageNum]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[2]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10640]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[triangleWidth]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[1]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10640]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[triangleHeight]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[2]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10640]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[triangleBase]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[3]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10641]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[Male]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[1]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10641]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[Female]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[2]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10641]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[Prefer to not say]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[3]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10642]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[camelCase]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[1]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10642]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[under_score]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[2]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10642]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[No Preference]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[3]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10630]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[triangle_base]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[1]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10630]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[triangle_height]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[2]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10630]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[triangle_width]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[3]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10628]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[min_number]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[1]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10628]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[first_number]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[2]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10628]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[max_number]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[3]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10628]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[third_number]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[4]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10626]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[30]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[1]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10626]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[300]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[2]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10626]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[500]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[3]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10626]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[50]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[4]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10624]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[50]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[1]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10624]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[250]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[2]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10624]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[500]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[3]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10624]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[25]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[4]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10612]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[Bachelor’s degree]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[1]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10612]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[Master’s degree]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[2]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10612]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[Ph.D. or higher]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[3]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10613]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[Software Engineering]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[1]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10613]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[Computer Engineering]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[2]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10613]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[Information System]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[3]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10613]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[Information Technology]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[4]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10614]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[Less than one year]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[1]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10614]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[Between one and three years]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[2]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10614]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[More than three years]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[3]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10618]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[10]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[1]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10618]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[20]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[2]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10618]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[45]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[3]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10618]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[50]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[4]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10622]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[20]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[1]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10622]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[5]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[2]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10622]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[2]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[3]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[10622]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[50]]></answer>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <sortorder><![CDATA[4]]></sortorder>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+  </rows>
+ </answers>
+ <groups>
+  <fields>
+   <fieldname>gid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>group_name</fieldname>
+   <fieldname>group_order</fieldname>
+   <fieldname>description</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>randomization_group</fieldname>
+   <fieldname>grelevance</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <gid><![CDATA[426]]></gid>
+    <sid><![CDATA[175167]]></sid>
+    <group_name><![CDATA[Demographic Questions]]></group_name>
+    <group_order><![CDATA[0]]></group_order>
+    <description/>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[427]]></gid>
+    <sid><![CDATA[175167]]></sid>
+    <group_name><![CDATA[Example Question]]></group_name>
+    <group_order><![CDATA[1]]></group_order>
+    <description/>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[428]]></gid>
+    <sid><![CDATA[175167]]></sid>
+    <group_name><![CDATA[Example Question]]></group_name>
+    <group_order><![CDATA[2]]></group_order>
+    <description/>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[431]]></gid>
+    <sid><![CDATA[175167]]></sid>
+    <group_name><![CDATA[Code Snippets and questions]]></group_name>
+    <group_order><![CDATA[3]]></group_order>
+    <description/>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[432]]></gid>
+    <sid><![CDATA[175167]]></sid>
+    <group_name><![CDATA[Demographic Question]]></group_name>
+    <group_order><![CDATA[4]]></group_order>
+    <description/>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+  </rows>
+ </groups>
+ <questions>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>parent_qid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>gid</fieldname>
+   <fieldname>type</fieldname>
+   <fieldname>title</fieldname>
+   <fieldname>question</fieldname>
+   <fieldname>preg</fieldname>
+   <fieldname>help</fieldname>
+   <fieldname>other</fieldname>
+   <fieldname>mandatory</fieldname>
+   <fieldname>question_order</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+   <fieldname>same_default</fieldname>
+   <fieldname>relevance</fieldname>
+   <fieldname>modulename</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[10612]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[175167]]></sid>
+    <gid><![CDATA[426]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[Q00001]]></title>
+    <question><![CDATA[1. What is the highest degree or level of education you have completed?]]></question>
+    <preg/>
+    <help><![CDATA[If you are a student please select the level of education in which currently you are.]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[10613]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[175167]]></sid>
+    <gid><![CDATA[426]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[Q00002]]></title>
+    <question><![CDATA[2. What is your major?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[Y]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[10614]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[175167]]></sid>
+    <gid><![CDATA[426]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[Q00003]]></title>
+    <question><![CDATA[3. How many years of experience do you have in programming?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[10615]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[175167]]></sid>
+    <gid><![CDATA[426]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[Q00004]]></title>
+    <question><![CDATA[4. What programming languages do you work in?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[Y]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[10616]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[175167]]></sid>
+    <gid><![CDATA[427]]></gid>
+    <type><![CDATA[X]]></type>
+    <title><![CDATA[Q00006]]></title>
+    <question><![CDATA[<p>Please read/skim the following code carefully.</p>
+
+<p><code>public class Main {<br />
+  public static void main(String[] args) {<br />
+  <br />
+    int box_height = 50;<br />
+    int box_width = 20;<br />
+    <br />
+    int box_surface = box_height * box_width;<br />
+  <br />
+    System.out.println(box_surface);<br />
+  }<br />
+}</code></p>
+
+<p><br />
+ </p>
+]]></question>
+    <preg/>
+    <help><![CDATA[Please press the <strong>NEXT</strong> button to see the question.]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[10618]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[175167]]></sid>
+    <gid><![CDATA[428]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[Q00007]]></title>
+    <question><![CDATA[What was the value of <code><strong>box_width</strong></code> in the code snippet?]]></question>
+    <preg/>
+    <help><![CDATA[It was an example question, and the rest of the questions will be like this.<br />
+Keep in mind that <strong>you will not be able to press the BACK button</strong> to see the code snippet once you see the question.]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[10621]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[175167]]></sid>
+    <gid><![CDATA[431]]></gid>
+    <type><![CDATA[X]]></type>
+    <title><![CDATA[Q00008]]></title>
+    <question><![CDATA[<p>1. Please read/skim the following code carefully:</p>
+
+<p><code>public class Main {<br />
+  public static void main(String[] args) {<br />
+  <br />
+    int travelled_distance = 50;<br />
+    int taken_time = 2;<br />
+    <br />
+    int car_speed = travelled_distance / taken_time;<br />
+  <br />
+    System.out.println(car_speed);<br />
+  }<br />
+}</code><br />
+ </p>
+]]></question>
+    <preg/>
+    <help><![CDATA[Please press the <strong>NEXT</strong> button to see the question.]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[10622]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[175167]]></sid>
+    <gid><![CDATA[431]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[Q00009]]></title>
+    <question><![CDATA[What was the value of <strong><code>taken_time</code></strong>  in the code snippet?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[10623]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[175167]]></sid>
+    <gid><![CDATA[431]]></gid>
+    <type><![CDATA[X]]></type>
+    <title><![CDATA[Q00010]]></title>
+    <question><![CDATA[<p>9. Please read/skim the following code carefully:</p>
+
+<p><code>public class Main {</code></p>
+
+<p><code>    public static void distance_calculation(int average_speed, int taken_time){<br />
+      </code></p>
+
+<p><code>      int travelled_distance;<br />
+      travelled_distance = average_speed * taken_time;<br />
+      <br />
+      System.out.println(travelled_distance);<br />
+    <br />
+    <br />
+    }<br />
+    public static void main(String[] args) {<br />
+  <br />
+      int average_speed = 250;<br />
+      int taken_time = 50;</code></p>
+
+<p><code>      distance_calculation(average_speed, taken_time);<br />
+      <br />
+  }<br />
+}</code></p>
+]]></question>
+    <preg/>
+    <help><![CDATA[Please press the <strong>NEXT</strong> button to see the question.]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[16]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[10624]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[175167]]></sid>
+    <gid><![CDATA[431]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[Q00011]]></title>
+    <question><![CDATA[What was the value of <strong><code>average_speed</code></strong>  in the code snippet?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[17]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[10625]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[175167]]></sid>
+    <gid><![CDATA[431]]></gid>
+    <type><![CDATA[X]]></type>
+    <title><![CDATA[Q00012]]></title>
+    <question><![CDATA[<p>4. Please read/skim the following code carefully:</p>
+
+<p><code>public class Main {</code></p>
+
+<p><code>  public static void main(String[] args) {<br />
+  int max_numbers = 300;<br />
+  int min_number = 50;<br />
+  int i;<br />
+  for (i = 0; i &lt;= max_numbers; i++){<br />
+ <br />
+  if (i == max_numbers){<br />
+  int mean_num = IntMath.mean(max_numbers, min_number);<br />
+  <br />
+  System.out.println(" It is " + mean_num);<br />
+  break;<br />
+  }<br />
+  else if (i == min_number){<br />
+  min_number = (int)Math.sqrt(min_number);<br />
+  }<br />
+  <br />
+  }<br />
+  }<br />
+}</code></p>
+]]></question>
+    <preg/>
+    <help><![CDATA[Please press the <strong>NEXT</strong> button to see the question.]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[10626]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[175167]]></sid>
+    <gid><![CDATA[431]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[Q00013]]></title>
+    <question><![CDATA[What was the value of <code>max_numbers</code> in the code snippet?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[7]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[10627]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[175167]]></sid>
+    <gid><![CDATA[431]]></gid>
+    <type><![CDATA[X]]></type>
+    <title><![CDATA[Q00014]]></title>
+    <question><![CDATA[<p>6. Please read/skim the following code carefully:</p>
+
+<p><code>public class Main {</code></p>
+
+<p><code>  public static void main(String[] args) {</code></p>
+
+<p><code>  double min_number = 5</code></p>
+
+<p><code>  double first_number = 10;</code></p>
+
+<p><code>  double second_number = 20;</code></p>
+
+<p><code>  double third_number = 30;</code></p>
+
+<p><code>  double max_number = 50;</code></p>
+
+<p><code>  double result;</code></p>
+
+<p><code>  </code></p>
+
+<p><code>  result = Math.sqrt((first_number * min_number) - third_number + second_number);</code></p>
+
+<p> </p>
+
+<p><code>  System.out.println(result);</code></p>
+
+<p><code>  }</code></p>
+
+<p><code>}</code></p>
+]]></question>
+    <preg/>
+    <help><![CDATA[Please press the <strong>NEXT</strong> button to see the question.]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[10]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[10628]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[175167]]></sid>
+    <gid><![CDATA[431]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[Q00015]]></title>
+    <question><![CDATA[<p>Which one of the following variables was not used in the calculation of <code>result</code>?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[11]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[10629]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[175167]]></sid>
+    <gid><![CDATA[431]]></gid>
+    <type><![CDATA[X]]></type>
+    <title><![CDATA[Q00016]]></title>
+    <question><![CDATA[<p>3. Please read/skim the following code carefully:</p>
+
+<p><code>public class Main {</code></p>
+
+<p><code>  public static void main(String[] args) {</code></p>
+
+<p> </p>
+
+<p><code>    double triangle_base = 10;</code></p>
+
+<p><code>    double triangle_height = 8;</code></p>
+
+<p><code>    double triangle_area;</code></p>
+
+<p><code>    triangle_area = (triangle_base * triangle_height) / 2;</code></p>
+
+<p> </p>
+
+<p><code>    System.out.println(triangle_area);</code></p>
+
+<p><code>  }</code></p>
+
+<p><code>}</code></p>
+]]></question>
+    <preg/>
+    <help><![CDATA[Please press the <strong>NEXT</strong> button to see the question.]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[10630]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[175167]]></sid>
+    <gid><![CDATA[431]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[Q00017]]></title>
+    <question><![CDATA[<p>Which one of the following variables was not declared in the code snippet?</p>
+
+<p> </p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[10631]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[175167]]></sid>
+    <gid><![CDATA[431]]></gid>
+    <type><![CDATA[X]]></type>
+    <title><![CDATA[Q00018]]></title>
+    <question><![CDATA[<p>2. Please read/skim the following code carefully:</p>
+
+<p><code>public class Main {</code></p>
+
+<p><code>    public static void distanceCalculation(int averageSpeed, int takenTime){</code></p>
+
+<p> </p>
+
+<p><code>      int travelledDistance;</code></p>
+
+<p><code>      int speedAccelaration;</code></p>
+
+<p><code>      travelledDistance = averageSpeed * takenTime;</code></p>
+
+<p><code>      </code></p>
+
+<p><code>      System.out.println(travelledDistance);</code></p>
+
+<p><code>    }</code></p>
+
+<p><code>    public static void main(String[] args) {</code></p>
+
+<p><code>      int averageSpeed = 500;</code></p>
+
+<p><code>      int speedAccelaration = 200;</code></p>
+
+<p><code>      int takenTime = 50;</code></p>
+
+<p> </p>
+
+<p><code>      distanceCalculation(averageSpeed, takenTime);</code></p>
+
+<p><code>  }</code></p>
+
+<p><code>}</code></p>
+]]></question>
+    <preg/>
+    <help><![CDATA[Please press the <strong>NEXT</strong> button to see the question.]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[10632]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[175167]]></sid>
+    <gid><![CDATA[431]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[Q00019]]></title>
+    <question><![CDATA[<p>Which one of the following variables was not used in the calculation of <code>travelledDistance</code>?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[10633]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[175167]]></sid>
+    <gid><![CDATA[431]]></gid>
+    <type><![CDATA[X]]></type>
+    <title><![CDATA[Q00020]]></title>
+    <question><![CDATA[<p>7. Please read/skim the following code carefully:</p>
+
+<p><code>public class Main {</code></p>
+
+<p><code>  public static void main(String[] args) {</code></p>
+
+<p><code>    double travelledDistance = 45;<br />
+    double remainingDistance</code><code> = 50;<br />
+    double takenTime = 30;<br />
+    double carSpeed;</code></p>
+
+<p><code>    carSpeed = travelledDistance / takenTime;<br />
+  <br />
+    System.out.println(carSpeed);</code></p>
+
+<p><code>  }</code></p>
+
+<p><code>}</code></p>
+]]></question>
+    <preg/>
+    <help><![CDATA[Please press the <strong>NEXT</strong> button to see the question.]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[12]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[10634]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[175167]]></sid>
+    <gid><![CDATA[431]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[Q00021]]></title>
+    <question><![CDATA[<p>Which one of the following variables was not used in the calculation of <code>carSpeed</code>?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[13]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[10635]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[175167]]></sid>
+    <gid><![CDATA[431]]></gid>
+    <type><![CDATA[X]]></type>
+    <title><![CDATA[Q00022]]></title>
+    <question><![CDATA[<p>8. Please read/skim the following code carefully:</p>
+
+<p><code>public class Main {<br />
+  public static void main(String[] args) {<br />
+  double minNumber = 10;<br />
+  double firstNumber = 25;<br />
+  double secondNumber = 30;<br />
+  double thirdNumber = 12;<br />
+  double result;<br />
+  <br />
+  result = Math.sqrt((firstNumber * firstNumber) - thirdNumber + secondNumber);<br />
+    System.out.println(result);<br />
+  }<br />
+}</code></p>
+]]></question>
+    <preg/>
+    <help><![CDATA[Please press the <strong>NEXT</strong> button to see the question.]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[14]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[10636]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[175167]]></sid>
+    <gid><![CDATA[431]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[Q00023]]></title>
+    <question><![CDATA[<p>Which one of the following variables was not declared in the code snippet?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[15]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[10637]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[175167]]></sid>
+    <gid><![CDATA[431]]></gid>
+    <type><![CDATA[X]]></type>
+    <title><![CDATA[Q00024]]></title>
+    <question><![CDATA[<p>10. Please read/skim the following code carefully:</p>
+
+<p><code>public class Main {</code></p>
+
+<p><code>  public static void main(String[] args) {<br />
+  int maxNumbers = 250;<br />
+  int minNumber = 125;<br />
+  int i;<br />
+  for (i = 0; i &lt;= maxNumbers; i++){<br />
+ <br />
+  if (i == maxNumbers){<br />
+  double meanNum = IntMath.mean(maxNumbers, minNumber);<br />
+  <br />
+  System.out.println(" It is " + meanNum);<br />
+  break;<br />
+  }<br />
+  else if (i == minNumber){<br />
+  minNumber = (int)Math.sqrt(minNumber);<br />
+  }<br />
+  <br />
+  }<br />
+  }<br />
+}</code></p>
+]]></question>
+    <preg/>
+    <help><![CDATA[Please press the <strong>NEXT</strong> button to see the question.]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[18]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[10638]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[175167]]></sid>
+    <gid><![CDATA[431]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[Q00025]]></title>
+    <question><![CDATA[<p>Which one of the following variables was not declared in the code snippet?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[19]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[10639]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[175167]]></sid>
+    <gid><![CDATA[431]]></gid>
+    <type><![CDATA[X]]></type>
+    <title><![CDATA[Q00026]]></title>
+    <question><![CDATA[<p>5. Please read/skim the following code carefully:</p>
+
+<p><code>public class Main {</code></p>
+
+<p><code>  public static void main(String[] args) {</code></p>
+
+<p><code>    double triangleBase = 10;</code></p>
+
+<p><code>    double triangleWidth = 12;</code></p>
+
+<p><code>    double triangleHeight = 8;</code></p>
+
+<p><code>    double triangleArea;</code></p>
+
+<p> </p>
+
+<p><code>    triangleArea = (triangleBase * triangleHeight) / 2;</code></p>
+
+<p> </p>
+
+<p><code>    System.out.println(triangleArea);</code></p>
+
+<p><code>  }</code></p>
+
+<p><code>}</code></p>
+]]></question>
+    <preg/>
+    <help><![CDATA[Please press the <strong>NEXT</strong> button to see the question.]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[8]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[10640]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[175167]]></sid>
+    <gid><![CDATA[431]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[Q00027]]></title>
+    <question><![CDATA[<p>Which one of the following variables was not used in the calculation of <code>triangleArea</code>?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[9]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[10641]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[175167]]></sid>
+    <gid><![CDATA[426]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[Q00005]]></title>
+    <question><![CDATA[5. What is your gender?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[10642]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[175167]]></sid>
+    <gid><![CDATA[432]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[Q00028]]></title>
+    <question><![CDATA[What is your identifier style preference?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[10647]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[175167]]></sid>
+    <gid><![CDATA[432]]></gid>
+    <type><![CDATA[S]]></type>
+    <title><![CDATA[Q2]]></title>
+    <question><![CDATA[<p>Thank you for taking the time to complete this survey. We truly value the information you have provided. Your responses will contribute to our analyses and findings.</p>
+
+<p>As far as the comprehension of identifier names in programs is at the core of program understanding, the aim of the study is to know which identifier style, namely camelCase or under_score, affects the code understanding.</p>
+
+<p>If you want to receive the result of this study, please write your email address in the box below.</p>
+]]></question>
+    <preg/>
+    <help><![CDATA[Please press the <strong>SUBMIT</strong> button to save your answers.]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+  </rows>
+ </questions>
+ <subquestions>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>parent_qid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>gid</fieldname>
+   <fieldname>type</fieldname>
+   <fieldname>title</fieldname>
+   <fieldname>question</fieldname>
+   <fieldname>preg</fieldname>
+   <fieldname>help</fieldname>
+   <fieldname>other</fieldname>
+   <fieldname>mandatory</fieldname>
+   <fieldname>question_order</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+   <fieldname>same_default</fieldname>
+   <fieldname>relevance</fieldname>
+   <fieldname>modulename</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[10643]]></qid>
+    <parent_qid><![CDATA[10615]]></parent_qid>
+    <sid><![CDATA[175167]]></sid>
+    <gid><![CDATA[426]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[JAVA]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[10644]]></qid>
+    <parent_qid><![CDATA[10615]]></parent_qid>
+    <sid><![CDATA[175167]]></sid>
+    <gid><![CDATA[426]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[C]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance/>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[10645]]></qid>
+    <parent_qid><![CDATA[10615]]></parent_qid>
+    <sid><![CDATA[175167]]></sid>
+    <gid><![CDATA[426]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[C#]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance/>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[10646]]></qid>
+    <parent_qid><![CDATA[10615]]></parent_qid>
+    <sid><![CDATA[175167]]></sid>
+    <gid><![CDATA[426]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[C++]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance/>
+    <modulename/>
+   </row>
+  </rows>
+ </subquestions>
+ <surveys>
+  <fields>
+   <fieldname>sid</fieldname>
+   <fieldname>admin</fieldname>
+   <fieldname>expires</fieldname>
+   <fieldname>startdate</fieldname>
+   <fieldname>adminemail</fieldname>
+   <fieldname>anonymized</fieldname>
+   <fieldname>faxto</fieldname>
+   <fieldname>format</fieldname>
+   <fieldname>savetimings</fieldname>
+   <fieldname>template</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>additional_languages</fieldname>
+   <fieldname>datestamp</fieldname>
+   <fieldname>usecookie</fieldname>
+   <fieldname>allowregister</fieldname>
+   <fieldname>allowsave</fieldname>
+   <fieldname>autonumber_start</fieldname>
+   <fieldname>autoredirect</fieldname>
+   <fieldname>allowprev</fieldname>
+   <fieldname>printanswers</fieldname>
+   <fieldname>ipaddr</fieldname>
+   <fieldname>refurl</fieldname>
+   <fieldname>publicstatistics</fieldname>
+   <fieldname>publicgraphs</fieldname>
+   <fieldname>listpublic</fieldname>
+   <fieldname>htmlemail</fieldname>
+   <fieldname>tokenanswerspersistence</fieldname>
+   <fieldname>assessments</fieldname>
+   <fieldname>usecaptcha</fieldname>
+   <fieldname>usetokens</fieldname>
+   <fieldname>bounce_email</fieldname>
+   <fieldname>attributedescriptions</fieldname>
+   <fieldname>emailresponseto</fieldname>
+   <fieldname>emailnotificationto</fieldname>
+   <fieldname>tokenlength</fieldname>
+   <fieldname>showxquestions</fieldname>
+   <fieldname>showgroupinfo</fieldname>
+   <fieldname>shownoanswer</fieldname>
+   <fieldname>showqnumcode</fieldname>
+   <fieldname>bouncetime</fieldname>
+   <fieldname>bounceprocessing</fieldname>
+   <fieldname>bounceaccounttype</fieldname>
+   <fieldname>bounceaccounthost</fieldname>
+   <fieldname>bounceaccountpass</fieldname>
+   <fieldname>bounceaccountencryption</fieldname>
+   <fieldname>bounceaccountuser</fieldname>
+   <fieldname>showwelcome</fieldname>
+   <fieldname>showprogress</fieldname>
+   <fieldname>navigationdelay</fieldname>
+   <fieldname>nokeyboard</fieldname>
+   <fieldname>alloweditaftercompletion</fieldname>
+   <fieldname>googleanalyticsstyle</fieldname>
+   <fieldname>googleanalyticsapikey</fieldname>
+   <fieldname>sendconfirmation</fieldname>
+   <fieldname>questionindex</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <sid><![CDATA[175167]]></sid>
+    <admin><![CDATA[Atied Shukrullah]]></admin>
+    <adminemail><![CDATA[atied.shukrullah@student.atilim.edu.tr]]></adminemail>
+    <anonymized><![CDATA[N]]></anonymized>
+    <faxto/>
+    <format><![CDATA[S]]></format>
+    <savetimings><![CDATA[Y]]></savetimings>
+    <template><![CDATA[news_paper]]></template>
+    <language><![CDATA[en]]></language>
+    <additional_languages/>
+    <datestamp><![CDATA[Y]]></datestamp>
+    <usecookie><![CDATA[Y]]></usecookie>
+    <allowregister><![CDATA[N]]></allowregister>
+    <allowsave><![CDATA[N]]></allowsave>
+    <autonumber_start><![CDATA[62]]></autonumber_start>
+    <autoredirect><![CDATA[N]]></autoredirect>
+    <allowprev><![CDATA[N]]></allowprev>
+    <printanswers><![CDATA[N]]></printanswers>
+    <ipaddr><![CDATA[N]]></ipaddr>
+    <refurl><![CDATA[N]]></refurl>
+    <publicstatistics><![CDATA[N]]></publicstatistics>
+    <publicgraphs><![CDATA[N]]></publicgraphs>
+    <listpublic><![CDATA[N]]></listpublic>
+    <htmlemail><![CDATA[Y]]></htmlemail>
+    <tokenanswerspersistence><![CDATA[N]]></tokenanswerspersistence>
+    <assessments><![CDATA[N]]></assessments>
+    <usecaptcha><![CDATA[N]]></usecaptcha>
+    <usetokens><![CDATA[N]]></usetokens>
+    <bounce_email><![CDATA[huseyin.dolen@atilim.edu.tr]]></bounce_email>
+    <emailresponseto/>
+    <emailnotificationto/>
+    <tokenlength><![CDATA[15]]></tokenlength>
+    <showxquestions><![CDATA[N]]></showxquestions>
+    <showgroupinfo><![CDATA[B]]></showgroupinfo>
+    <shownoanswer><![CDATA[Y]]></shownoanswer>
+    <showqnumcode><![CDATA[X]]></showqnumcode>
+    <bounceprocessing><![CDATA[N]]></bounceprocessing>
+    <showwelcome><![CDATA[Y]]></showwelcome>
+    <showprogress><![CDATA[Y]]></showprogress>
+    <navigationdelay><![CDATA[0]]></navigationdelay>
+    <nokeyboard><![CDATA[N]]></nokeyboard>
+    <alloweditaftercompletion><![CDATA[N]]></alloweditaftercompletion>
+    <googleanalyticsstyle><![CDATA[1]]></googleanalyticsstyle>
+    <googleanalyticsapikey><![CDATA[9999useGlobal9999]]></googleanalyticsapikey>
+    <sendconfirmation><![CDATA[Y]]></sendconfirmation>
+    <questionindex><![CDATA[0]]></questionindex>
+   </row>
+  </rows>
+ </surveys>
+ <surveys_languagesettings>
+  <fields>
+   <fieldname>surveyls_survey_id</fieldname>
+   <fieldname>surveyls_language</fieldname>
+   <fieldname>surveyls_title</fieldname>
+   <fieldname>surveyls_description</fieldname>
+   <fieldname>surveyls_welcometext</fieldname>
+   <fieldname>surveyls_endtext</fieldname>
+   <fieldname>surveyls_url</fieldname>
+   <fieldname>surveyls_urldescription</fieldname>
+   <fieldname>surveyls_email_invite_subj</fieldname>
+   <fieldname>surveyls_email_invite</fieldname>
+   <fieldname>surveyls_email_remind_subj</fieldname>
+   <fieldname>surveyls_email_remind</fieldname>
+   <fieldname>surveyls_email_register_subj</fieldname>
+   <fieldname>surveyls_email_register</fieldname>
+   <fieldname>surveyls_email_confirm_subj</fieldname>
+   <fieldname>surveyls_email_confirm</fieldname>
+   <fieldname>surveyls_dateformat</fieldname>
+   <fieldname>email_admin_notification_subj</fieldname>
+   <fieldname>email_admin_notification</fieldname>
+   <fieldname>email_admin_responses_subj</fieldname>
+   <fieldname>email_admin_responses</fieldname>
+   <fieldname>surveyls_numberformat</fieldname>
+   <fieldname>surveyls_attributecaptions</fieldname>
+   <fieldname>attachments</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <surveyls_survey_id><![CDATA[175167]]></surveyls_survey_id>
+    <surveyls_language><![CDATA[en]]></surveyls_language>
+    <surveyls_title><![CDATA[The Impact of Identifier Style on Source Code Comprehension]]></surveyls_title>
+    <surveyls_description><![CDATA[<p style="text-align:justify;">Dear Invitee,</p>
+
+<p style="text-align:justify;">My name is Shukrullah ATIED. I am a master's student in the Software Engineering department at Atilim University. I am kindly requesting your participation in the term research project of the SE544 course, titled: <strong>The Impact of Identifier Style on Source Code Comprehension</strong>.</p>
+
+<p style="text-align:justify;">This survey involves completing a few demographic questions and then answering some simple questions about code snippets. Before starting the survey questions, there is an example question to make participants familiar with other questions. In each task, you are kindly asked to read and skim the code and then go to the question part and answer the question. You will not be able to go <strong>BACK</strong> and see the code snippet once you see the question.</p>
+
+<p style="text-align:justify;">The requirement for participating in this survey is that participants should have knowledge of programming. Participation is completely voluntary, and you can leave the survey at any time. We do not ask you to provide your name or other sensitive personally identifiable information and this study is anonymous. The survey will take 10 – 15 minutes.</p>
+
+<p style="text-align:justify;">If you have any questions about this survey, or difficulty in accessing the site or completing the survey, please contact me or the course instructor, Asst. Prof. Dr. Bilge SAY. </p>
+
+<p style="text-align:justify;">Thank you in advance for providing this important feedback. Please press the <strong>NEXT</strong> button to start the survey.</p>
+
+<p style="text-align:justify;"> </p>
+
+<p>Shukrullah ATIED</p>
+
+<p>Department of Software Engineering</p>
+
+<p>Atılım University</p>
+
+<p>Email: Shukrullah.atied@gmail.com</p>
+
+<p style="text-align:justify;"> </p>
+
+<p>Asst. Prof. Dr. Bilge SAY</p>
+
+<p>Department of Software Engineering</p>
+
+<p>Atılım University</p>
+
+<p>Email: bilge.say@atilim.edu.tr</p>
+]]></surveyls_description>
+    <surveyls_welcometext/>
+    <surveyls_endtext><![CDATA[Thank you for your contribution!]]></surveyls_endtext>
+    <surveyls_url><![CDATA[https://moodle.atilim.edu.tr/anket/index.php?r=survey/index/sid/175167/newtest/Y/lang/en]]></surveyls_url>
+    <surveyls_urldescription><![CDATA[The Impact of Identifier Style on Source Code Comprehension]]></surveyls_urldescription>
+    <surveyls_email_invite_subj><![CDATA[Invitation to participate in a survey]]></surveyls_email_invite_subj>
+    <surveyls_email_invite><![CDATA[Dear {FIRSTNAME},<br /><br />
+you have been invited to participate in a survey.<br /><br />
+The survey is titled:<br />
+"{SURVEYNAME}"<br /><br />
+"{SURVEYDESCRIPTION}"<br /><br />
+To participate, please click on the link below.<br /><br />
+Sincerely,<br /><br />
+{ADMINNAME} ({ADMINEMAIL})<br /><br />
+----------------------------------------------<br />
+Click here to do the survey:<br />
+{SURVEYURL}<br /><br />
+If you do not want to participate in this survey and don't want to receive any more invitations please click the following link:<br />
+{OPTOUTURL}<br /><br />
+If you are blacklisted but want to participate in this survey and want to receive invitations please click the following link:<br />
+{OPTINURL}]]></surveyls_email_invite>
+    <surveyls_email_remind_subj><![CDATA[Reminder to participate in a survey]]></surveyls_email_remind_subj>
+    <surveyls_email_remind><![CDATA[Dear {FIRSTNAME},<br /><br />
+Recently we invited you to participate in a survey.<br /><br />
+We note that you have not yet completed the survey, and wish to remind you that the survey is still available should you wish to take part.<br /><br />
+The survey is titled:<br />
+"{SURVEYNAME}"<br /><br />
+"{SURVEYDESCRIPTION}"<br /><br />
+To participate, please click on the link below.<br /><br />
+Sincerely,<br /><br />
+{ADMINNAME} ({ADMINEMAIL})<br /><br />
+----------------------------------------------<br />
+Click here to do the survey:<br />
+{SURVEYURL}<br /><br />
+If you do not want to participate in this survey and don't want to receive any more invitations please click the following link:<br />
+{OPTOUTURL}]]></surveyls_email_remind>
+    <surveyls_email_register_subj><![CDATA[Survey registration confirmation]]></surveyls_email_register_subj>
+    <surveyls_email_register><![CDATA[Dear {FIRSTNAME},<br /><br />
+You, or someone using your email address, have registered to participate in an online survey titled {SURVEYNAME}.<br /><br />
+To complete this survey, click on the following URL:<br /><br />
+{SURVEYURL}<br /><br />
+If you have any questions about this survey, or if you did not register to participate and believe this email is in error, please contact {ADMINNAME} at {ADMINEMAIL}.]]></surveyls_email_register>
+    <surveyls_email_confirm_subj><![CDATA[Confirmation of your participation in our survey]]></surveyls_email_confirm_subj>
+    <surveyls_email_confirm><![CDATA[Dear {FIRSTNAME},<br /><br />
+this email is to confirm that you have completed the survey titled {SURVEYNAME} and your response has been saved. Thank you for participating.<br /><br />
+If you have any further questions about this email, please contact {ADMINNAME} on {ADMINEMAIL}.<br /><br />
+Sincerely,<br /><br />
+{ADMINNAME}]]></surveyls_email_confirm>
+    <surveyls_dateformat><![CDATA[9]]></surveyls_dateformat>
+    <email_admin_notification_subj><![CDATA[Response submission for survey {SURVEYNAME}]]></email_admin_notification_subj>
+    <email_admin_notification><![CDATA[Hello,<br /><br />
+A new response was submitted for your survey '{SURVEYNAME}'.<br /><br />
+Click the following link to reload the survey:<br />
+{RELOADURL}<br /><br />
+Click the following link to see the individual response:<br />
+{VIEWRESPONSEURL}<br /><br />
+Click the following link to edit the individual response:<br />
+{EDITRESPONSEURL}<br /><br />
+View statistics by clicking here:<br />
+{STATISTICSURL}]]></email_admin_notification>
+    <email_admin_responses_subj><![CDATA[Response submission for survey {SURVEYNAME} with results]]></email_admin_responses_subj>
+    <email_admin_responses><![CDATA[Hello,<br /><br />
+A new response was submitted for your survey '{SURVEYNAME}'.<br /><br />
+Click the following link to reload the survey:<br />
+{RELOADURL}<br /><br />
+Click the following link to see the individual response:<br />
+{VIEWRESPONSEURL}<br /><br />
+Click the following link to edit the individual response:<br />
+{EDITRESPONSEURL}<br /><br />
+View statistics by clicking here:<br />
+{STATISTICSURL}<br /><br /><br />
+The following answers were given by the participant:<br />
+{ANSWERTABLE}]]></email_admin_responses>
+    <surveyls_numberformat><![CDATA[0]]></surveyls_numberformat>
+   </row>
+  </rows>
+ </surveys_languagesettings>
+</document>
